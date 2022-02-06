@@ -3349,11 +3349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\srava\\Desktop\\Sreelekha .NET Core Project\\AndCultureCodingChallenge.Core\\AndCultureCodingChallenge.Core.csproj",
+      "projectUniqueName": "C:\\Users\\srava\\Desktop\\Repositories\\AndCultureCodingChallenge.Core\\AndCultureCodingChallenge.Core.csproj",
       "projectName": "AndCultureCodingChallenge.Core",
-      "projectPath": "C:\\Users\\srava\\Desktop\\Sreelekha .NET Core Project\\AndCultureCodingChallenge.Core\\AndCultureCodingChallenge.Core.csproj",
+      "projectPath": "C:\\Users\\srava\\Desktop\\Repositories\\AndCultureCodingChallenge.Core\\AndCultureCodingChallenge.Core.csproj",
       "packagesPath": "C:\\Users\\srava\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srava\\Desktop\\Sreelekha .NET Core Project\\AndCultureCodingChallenge.Core\\obj\\",
+      "outputPath": "C:\\Users\\srava\\Desktop\\Repositories\\AndCultureCodingChallenge.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -10,3 +10,15 @@ C:\Users\srava\Desktop\Sreelekha .NET Core Project\AndCultureCodingChallenge.Inf
 C:\Users\srava\Desktop\Sreelekha .NET Core Project\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.csproj.CopyComplete
 C:\Users\srava\Desktop\Sreelekha .NET Core Project\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.dll
 C:\Users\srava\Desktop\Sreelekha .NET Core Project\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.pdb
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\bin\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.deps.json
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\bin\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.dll
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\bin\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.pdb
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\bin\Debug\netcoreapp3.1\AndCultureCodingChallenge.Core.dll
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\bin\Debug\netcoreapp3.1\AndCultureCodingChallenge.Core.pdb
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.csproj.AssemblyReference.cache
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.AssemblyInfoInputs.cache
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.AssemblyInfo.cs
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.csproj.CoreCompileInputs.cache
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.csproj.CopyComplete
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.dll
+C:\Users\srava\Desktop\Repositories\AndCultureCodingChallenge.Infrastrcture\obj\Debug\netcoreapp3.1\AndCultureCodingChallenge.Infrastrcture.pdb

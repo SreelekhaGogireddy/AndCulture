@@ -1629,11 +1629,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\srava\\Desktop\\Sreelekha .NET Core Project\\AndCultureCodingChallenge\\AndCultureCodingChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\srava\\Desktop\\Repositories\\AndCultureCodingChallenge\\AndCultureCodingChallenge.csproj",
       "projectName": "AndCultureCodingChallenge",
-      "projectPath": "C:\\Users\\srava\\Desktop\\Sreelekha .NET Core Project\\AndCultureCodingChallenge\\AndCultureCodingChallenge.csproj",
+      "projectPath": "C:\\Users\\srava\\Desktop\\Repositories\\AndCultureCodingChallenge\\AndCultureCodingChallenge.csproj",
       "packagesPath": "C:\\Users\\srava\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\srava\\Desktop\\Sreelekha .NET Core Project\\AndCultureCodingChallenge\\obj\\",
+      "outputPath": "C:\\Users\\srava\\Desktop\\Repositories\\AndCultureCodingChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1653,8 +1653,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\srava\\Desktop\\Sreelekha .NET Core Project\\AndCultureCodingChallenge.Infrastrcture\\AndCultureCodingChallenge.Infrastrcture.csproj": {
-              "projectPath": "C:\\Users\\srava\\Desktop\\Sreelekha .NET Core Project\\AndCultureCodingChallenge.Infrastrcture\\AndCultureCodingChallenge.Infrastrcture.csproj"
+            "C:\\Users\\srava\\Desktop\\Repositories\\AndCultureCodingChallenge.Infrastrcture\\AndCultureCodingChallenge.Infrastrcture.csproj": {
+              "projectPath": "C:\\Users\\srava\\Desktop\\Repositories\\AndCultureCodingChallenge.Infrastrcture\\AndCultureCodingChallenge.Infrastrcture.csproj"
             }
           }
         }

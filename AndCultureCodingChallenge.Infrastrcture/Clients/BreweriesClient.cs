@@ -13,11 +13,9 @@ namespace AndCultureCodingChallenge.Infrastrcture.Clients
     public class BreweriesClient : IBreweriesClient
     {
         private HttpClient _client;
-        private readonly ILogger _logger;
-        public BreweriesClient(HttpClient client, ILogger logger)
+        public BreweriesClient(HttpClient client)
         {
             _client = client;
-            _logger = logger;
         }
 
         public async Task<List<BreweriesResponse>> GetBreweries()
@@ -37,7 +35,6 @@ namespace AndCultureCodingChallenge.Infrastrcture.Clients
             }
             catch(Exception ex)
             {
-                _logger.LogError($"Exceptio:{ex} Class:BreweriesClient Method:GetBreweries");
                 throw new Exception("Failed to get Breweries List");
             }
 

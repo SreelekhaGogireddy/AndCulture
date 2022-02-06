@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PH05m5oMFo1Cy6YcPiHVLMOiyYVdZ/lrs08L65gPFLuQldUIDieyKDeVqD+p4pg1b9dDCTu0e3PttRi+LEn2Gg==",
+  "dgSpecHash": "bgXnrjVkUZ3mW9JwgibRviKIQAMlG6fIcu6ghXEBBO3M+m5zrxyQqdAWfCyTLsQ4ruib1RuZ2vaB5xRCm8+LJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\srava\\Desktop\\Sreelekha .NET Core Project\\AndCultureCodingChallenge.Infrastrcture\\AndCultureCodingChallenge.Infrastrcture.csproj",
+  "projectFilePath": "C:\\Users\\srava\\Desktop\\Repositories\\AndCultureCodingChallenge.Infrastrcture\\AndCultureCodingChallenge.Infrastrcture.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\srava\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\srava\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
