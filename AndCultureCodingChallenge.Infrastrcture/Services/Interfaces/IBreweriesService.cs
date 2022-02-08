@@ -5,6 +5,6 @@ namespace AndCultureCodingChallenge.Infrastrcture.Services.Interfaces
 {
     public interface IBreweriesService
     {
-        Task<JsonResult> GetBreweries();
+        Task<JsonResult> GetBreweries(string city);
     }
 }

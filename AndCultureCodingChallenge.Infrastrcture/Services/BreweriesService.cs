@@ -3,6 +3,7 @@ using AndCultureCodingChallenge.Infrastrcture.Repositories.Interfaces;
 using AndCultureCodingChallenge.Infrastrcture.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace AndCultureCodingChallenge.Infrastrcture.Services
@@ -15,16 +16,18 @@ namespace AndCultureCodingChallenge.Infrastrcture.Services
             _breweriesRepository = breweriesRepository;
         }
 
-        public async Task<JsonResult> GetBreweries()
+        public async Task<JsonResult> GetBreweries(string city)
         {
             try
             {
                 var breweriesList = await _breweriesRepository.GetBreweries();
-                return RequestResponseFactory.CreateSuccessfulResponse(breweriesList);
+                var filteredList = string.IsNullOrEmpty(city) ? breweriesList : breweriesList.Where(s => s.City == city);
+                return RequestResponseFactory.CreateSuccessfulResponse(filteredList);
             }
             catch
             {
-                throw new Exception("Failed to get Breweries List:{BreweriesService}{GetBreweries}");
+                //Log exception("Failed to get Breweries List:{BreweriesService}{GetBreweries} ex");
+                throw new Exception("Failed to get Breweries List");
             }
         }
     }

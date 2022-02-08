@@ -3,7 +3,9 @@
     "",
     "\\AndCultureCodingChallenge",
     "\\AndCultureCodingChallenge.Core",
-    "\\AndCultureCodingChallenge.Infrastrcture"
+    "\\AndCultureCodingChallenge.Infrastrcture",
+    "\\AndCultureCodingChallenge.Infrastrcture\\Clients"
   ],
+  "SelectedNode": "\\AndCultureCodingChallenge.Infrastrcture\\Clients\\BreweriesClient.cs",
   "PreviewInSolutionExplorer": false
 }
